@@ -1,2 +1,2 @@
 # webfarmacia
-Prueba de repositorio de código con archivos html
+Repositorio de código con archivos de prueba html (formularios)
