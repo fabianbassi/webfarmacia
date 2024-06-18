@@ -1,2 +1,2 @@
 # webfarmacia
-prueba para clonar repositorios
+Prueba de repositorio de código con archivos html
